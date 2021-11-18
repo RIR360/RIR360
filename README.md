@@ -1,10 +1,10 @@
 ![Dark profile cover featuring Rejwan Islam Rizvy](profile02-cover-dark.jpg)
 # Hi, I'm a Designer and Developer 👋
 I'm a Graphic Designer & Web Designer But I love developing too. Find me on these social sites.
-* Facebook
-* Linkedin
-* Twitter
-* Youtube
+* [Facebook](https://www.facebook.com/RIR360/)
+* [Linkedin](https://www.linkedin.com/in/linked-rir360/)
+* [Twitter](https://twitter.com/_RIR360)
+* [Youtube](https://www.youtube.com/rejwanislamrir)
 
 .
 
