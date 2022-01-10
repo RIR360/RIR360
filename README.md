@@ -59,14 +59,14 @@ Python password generator generates random passwords using the keywords you ente
 
 .
 
-# Demo Project 01 : [ASCII Animation](https://github.com/RIR360/ASCII-Animation)
+# Demo Project 01 (C) : [ASCII Animation](https://github.com/RIR360/ASCII-Animation)
 ![preview](https://user-images.githubusercontent.com/50569315/110948897-1cee0680-836c-11eb-9c33-f8bce0949a95.gif)
 
 Animation with just "printf" function in C language. I've provided three different animations. Check the "code" folder to see how the animations get generated. The code is programmed by [Rejwan Islam Rizvy](https://www.linkedin.com/in/linked-rir360)...[See more](https://github.com/RIR360/ASCII-Animation)
 
 .
 
-# Demo Project 02 : [Login Systems](https://github.com/RIR360/Login-Systems)
+# Demo Project 02 (C++) : [Login Systems](https://github.com/RIR360/Login-Systems)
 ![image](https://user-images.githubusercontent.com/50569315/121163238-6fa66400-c870-11eb-87f1-a64879e26004.png)
 
 The repository contains some different types of simple login systems programmed in c/c++ language. A new programmer could learn a lot by exploring this repository....[See more](https://github.com/RIR360/Login-Systems)
