@@ -1,12 +1,35 @@
 ![Dark profile cover featuring Rejwan Islam Rizvy](profile02-cover-dark.jpg)
 # Hi, I'm a Designer and Developer 👋
-I'm a Graphic Designer & Web Designer But I love developing too. Find me on these social sites.
-* [Facebook](https://www.facebook.com/RIR360/)
-* [Linkedin](https://www.linkedin.com/in/linked-rir360/)
-* [Twitter](https://twitter.com/_RIR360)
-* [Youtube](https://www.youtube.com/rejwanislamrir)
+I'm a Graphic Designer & Web Designer But I love developing too. I have experience developing a full-stack website from scratch. I love to collaborate and work with others. My skills and prejects are given below.
 
-.
+**Hard Skills:**
+* C (Expert)
+* C++ (Expert)
+* Python (tkinter, pyautogui)
+* JavaScript (DOM)
+* HTML, CSS
+
+<br/>
+
+
+**Soft Skills:**
+* Problem Solving
+  * I’ve solved a lot of competitive programming problems to become a confidant problem solver.
+* Teaching
+  * I’ve spent a lot of time teaching and explaining my code to classmates.
+* Communication
+  * I constantly discuss about problems in online communities
+* Mathematics
+  * From simple to complex, I can confidently use math on my code.
+
+
+
+Find me on these social sites:
+[Facebook](https://www.facebook.com/RIR360/)
+, [Linkedin](https://www.linkedin.com/in/linked-rir360/)
+, [Twitter](https://twitter.com/_RIR360)
+, [Youtube](https://www.youtube.com/rejwanislamrir)
+
 
 # Full-Stack Project: Noxford Library
 ![featured--picture-low](https://user-images.githubusercontent.com/50569315/135026949-7fedee51-0827-4fe4-a764-8b974dd9a9fd.jpg)
