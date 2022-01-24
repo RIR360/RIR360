@@ -4,7 +4,7 @@ I'm a Graphic Designer & Web Designer But I love developing too. I have experien
 
 **Hard Skills:**
 * C (Expert)
-* C++ (Expert)
+* C++ (Intermidiate)
 * Python (tkinter, pyautogui)
 * JavaScript (DOM)
 * HTML, CSS
