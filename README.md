@@ -19,8 +19,8 @@ I'm a Graphic Designer & Web Designer But I love developing too. I have experien
   * I’ve spent a lot of time teaching and explaining my code to classmates.
 * Communication
   * I constantly discuss about problems in online communities
-* Mathematics
-  * From simple to complex, I can confidently use math on my code.
+* Teamwork
+* Leadership
 
 
 
