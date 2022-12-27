@@ -6,8 +6,7 @@
  
 </h1>
 
-My name is **Rejwan Islam Rizvy** and I am a creative Node.JS web developer and designer. I have a strong passion for creating intuitive and visually appealing web applications, and I enjoy using Node.JS to build fast and scalable web services.
-
+My name is **Rejwan Islam Rizvy** and I am a creative Node.JS web developer and designer. I have a strong passion for creating intuitive and visually appealing web applications, and I enjoy using Node.JS to build fast and scalable web services.<br/>
 In my work, I strive to combine my technical skills with my artistic eye to create unique and engaging user experiences. In my free time, I enjoy staying up-to-date with the latest web development technologies and trends, and I am always looking for new challenges to tackle.
 
 <br/>
