@@ -24,11 +24,18 @@ In my work, I strive to combine my technical skills with my artistic eye to crea
 <br/>
 
 **Projects**
-| ![featured--picture-low](https://user-images.githubusercontent.com/50569315/135026949-7fedee51-0827-4fe4-a764-8b974dd9a9fd.jpg) | ![image](https://user-images.githubusercontent.com/50569315/131299857-65590074-01d5-4314-9634-6ae5bf842037.png) | ![Medium.com redesign - rir360](https://user-images.githubusercontent.com/50569315/126121747-74cef978-07da-48e1-81bb-ad9608604899.png) |
-|---|---|---|
-| [**Noxford Library**](https://github.com/RIR360/Noxford-Library) <br/> Full stack library website (Bootstrap, NodeJS, MongoDB) <br/> . | [**Clean New Tab**](https://github.com/RIR360/Clean-New-Tab) <br/> Google Chrome New Tab Extension (JavaScript) <br/> . | [**Medium.com**](https://github.com/RIR360/Medium.com-redesign) <br/> Frontend redesign of popular blogging website "Medium.com" (Bootstrap) <br/> . |
-| ![Python-Password-Generator preview](https://user-images.githubusercontent.com/50569315/98355717-c040af00-204c-11eb-9424-e8298cf725d1.gif) | ![preview](https://user-images.githubusercontent.com/50569315/110948897-1cee0680-836c-11eb-9c33-f8bce0949a95.gif) | ![image](https://user-images.githubusercontent.com/50569315/121163238-6fa66400-c870-11eb-87f1-a64879e26004.png) |
-| [**Password Generator**](https://github.com/RIR360/Python-Password-Generator) <br/> Python password generator generates random passwords using the keywords you enter. <br/> . | [**ASCII Animation**](https://github.com/RIR360/ASCII-Animation) <br/> Animation with just "printf" function in C/C++ language. <br/> . | [**Login Systems**](https://github.com/RIR360/Login-Systems) <br/> The repository contains some different types of simple login systems programmed in C/C++ language. <br/> . |
+
+| ![featured--picture-low](https://user-images.githubusercontent.com/50569315/135026949-7fedee51-0827-4fe4-a764-8b974dd9a9fd.jpg) | ![image](https://user-images.githubusercontent.com/50569315/131299857-65590074-01d5-4314-9634-6ae5bf842037.png) |
+|---|---| 
+| [**Noxford Library**](https://github.com/RIR360/Noxford-Library) <br/> Full stack library website (Bootstrap, NodeJS, MongoDB) <br/> . | [**Clean New Tab**](https://github.com/RIR360/Clean-New-Tab) <br/> Google Chrome New Tab Extension (JavaScript) <br/> |
+
+| ![Medium.com redesign - rir360](https://user-images.githubusercontent.com/50569315/126121747-74cef978-07da-48e1-81bb-ad9608604899.png) | ![Python-Password-Generator preview](https://user-images.githubusercontent.com/50569315/98355717-c040af00-204c-11eb-9424-e8298cf725d1.gif) | 
+|---|---| 
+| [**Medium.com**](https://github.com/RIR360/Medium.com-redesign) <br/> Frontend redesign of popular blogging website "Medium.com" (Bootstrap) <br/>| [**Password Generator**](https://github.com/RIR360/Python-Password-Generator) <br/> Python password generator generates random passwords using the keywords you enter. <br/>|
+
+| ![preview](https://user-images.githubusercontent.com/50569315/110948897-1cee0680-836c-11eb-9c33-f8bce0949a95.gif) | ![image](https://user-images.githubusercontent.com/50569315/121163238-6fa66400-c870-11eb-87f1-a64879e26004.png) |
+|---|---| 
+| [**ASCII Animation**](https://github.com/RIR360/ASCII-Animation) <br/> Animation with just "printf" function in C/C++ language. <br/> | [**Login Systems**](https://github.com/RIR360/Login-Systems) <br/> The repository contains some different types of simple login systems programmed in C/C++ language. <br/> |
 
 
 Find me on these social sites:
