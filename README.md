@@ -2,7 +2,7 @@
 
 <h1>
  
- Hi There 👋
+ Hi there! 👋
  
 </h1>
 
