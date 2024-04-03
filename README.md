@@ -7,14 +7,22 @@
 
 ### Languages and Tools:
 
-<br/>
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]()
-
-<br/> 
+<span>
+<img title="React JS" alt="React icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/react.svg">
+<img title="node JS" alt="node icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/node.svg">
+<img title="javascript" alt="javascript icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/javascript.svg">
+<img title="jquery" alt="jquery icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/jquery.svg">
+<img title="html" alt="html icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/html.svg">
+<img title="css" alt="css icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/css.svg">
+<img title="bootstrap" alt="bootstrap icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/bootstrap.svg">
+<img title="mongodb" alt="mongodb icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/mongodb.svg">
+<img title="elasticsearch" alt="elasticsearch icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/elasticsearch.svg">
+<img title="cpp" alt="cpp icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/cpp.svg">
+<img title="python" alt="python icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/python.svg">
+<img title="illustrator" alt="illustrator icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/illustrator.svg">
+<img title="photoshop" alt="photoshop icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/photoshop.svg">
+<img title="figma" alt="figma icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/figma.svg">
+</span>
 
 ### Expertise:
 * Responsive Website Design
@@ -29,25 +37,10 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[<img title="Facebook Profile" alt="Facebook Profile of Rejwan Islam Rizvy" height="35px" src="./img/facebook-square.svg">](https://www.facebook.com/RIR360/)
+[<img title="LInkedin Profile" alt="Linkedin Profile of Rejwan Islam Rizvy" height="35px" src="./img/linkedin.svg">](https://www.linkedin.com/in/rir360-pro/)
+[<img title="Behance Profile" alt="Behance Profile of Rejwan Islam Rizvy" height="35px" src="./img/behance.svg">](https://www.behance.net/rir360)
+[<img title="Youtube Channel" alt="Youtube Channel of Rejwan Islam Rizvy" height="35px" src="./img/youtube-square.svg">](https://www.youtube.com/rejwanislamrir)
 
 <br />
 
-Find me on these social sites:
-[Facebook](https://www.facebook.com/RIR360/)
-, [Linkedin](https://www.linkedin.com/in/linked-rir360/)
-, [Behance](https://www.behance.net/rir360)
-, [Youtube](https://www.youtube.com/rejwanislamrir)
