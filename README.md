@@ -1,6 +1,6 @@
 ![Cover image of Rejwan Islam Rizvy, Rizvi (RIR360)](https://github.com/RIR360/RIR360/assets/50569315/85186f40-a347-4db0-b7a7-73bbce9ac4bc)
 
-## I'm a Developer and a Designer!!
+## Not a Developer or a Designer, I'm both!!
 
 ⚡ I'm **Rejwan Islam Rizvy**, a passionate full stack web developer and professional graphic designer with a keen eye for creating intuitive and visually appealing web applications. I leverage my expertise in Node.JS to craft fast and scalable web services.
 
