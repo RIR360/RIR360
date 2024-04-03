@@ -1,42 +1,50 @@
-<!-- ![Dark profile cover featuring Rejwan Islam Rizvy](profile02-cover-dark.jpg) -->
+![Cover image of Rejwan Islam Rizvy, Rizvi (RIR360)](https://github.com/RIR360/RIR360/assets/50569315/85186f40-a347-4db0-b7a7-73bbce9ac4bc)
 
-<h1>
- 
- Hi there! 👋
- 
-</h1>
+## I'm a Developer and a Designer!!
 
-I'm **Rejwan Islam Rizvy**, a passionate full stack web developer and professional graphic designer with a keen eye for creating intuitive and visually appealing web applications. I leverage my expertise in Node.JS to craft fast and scalable web services, seamlessly blending my technical prowess with my artistic sensibilities to deliver exceptional user experiences.<br/>
-In my work, I strive to combine my technical skills with my artistic eye to create unique and engaging user experiences. In my free time, I enjoy staying up-to-date with the latest web development technologies and trends, and I am always looking for new challenges to tackle.
+⚡ I'm **Rejwan Islam Rizvy**, a passionate full stack web developer and professional graphic designer with a keen eye for creating intuitive and visually appealing web applications. I leverage my expertise in Node.JS to craft fast and scalable web services.
+
+
+### Languages and Tools:
 
 <br/>
 
-**Skils**
-* NodeJS
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]()
+
+<br/> 
+
+### Expertise:
+* Responsive Website Design
+* React JS, Next JS
 * JavaScript, Jquery
 * HTML, CSS, Bootstrap
-* SQL, NoSQL
+* MongoDB, ElasticSearch, SQL
 * C/C++ (Problem Solving, Instructing)
-* Python (Competitive Programming)
-* Illustrator
-* Photoshop
+* Python (In competitive Programming)
+* In graphics, Figma, Adobe Illustrator, and Adobe Photoshop
 
-<br/>
 
-**Projects**
+### Connect with me:
 
-| ![featured--picture-low](https://user-images.githubusercontent.com/50569315/135026949-7fedee51-0827-4fe4-a764-8b974dd9a9fd.jpg) | ![image](https://user-images.githubusercontent.com/50569315/131299857-65590074-01d5-4314-9634-6ae5bf842037.png) |
-|---|---| 
-| <h3> [**Noxford Library**](https://github.com/RIR360/Noxford-Library) </h3> Full stack library website (Bootstrap, NodeJS, MongoDB) <br/> | <h3> [**Clean New Tab**](https://github.com/RIR360/Clean-New-Tab) </h3> Google Chrome New Tab Extension (JavaScript) <br/> |
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-| ![Medium.com redesign - rir360](https://user-images.githubusercontent.com/50569315/126121747-74cef978-07da-48e1-81bb-ad9608604899.png) | ![Python-Password-Generator preview](https://user-images.githubusercontent.com/50569315/98355717-c040af00-204c-11eb-9424-e8298cf725d1.gif) | 
-|---|---| 
-| <h3> [**Medium.com**](https://github.com/RIR360/Medium.com-redesign) </h3> Frontend redesign of popular blogging website "Medium.com" (Bootstrap) <br/> | <h3> [**Password Generator**](https://github.com/RIR360/Python-Password-Generator) </h3> Python random password generator with UI.<br/>|
-
-| ![preview](https://user-images.githubusercontent.com/50569315/110948897-1cee0680-836c-11eb-9c33-f8bce0949a95.gif) | ![image](https://user-images.githubusercontent.com/50569315/121163238-6fa66400-c870-11eb-87f1-a64879e26004.png) |
-|---|---| 
-| <h3> [**ASCII Animation**](https://github.com/RIR360/ASCII-Animation) </h3> Animation with just "printf" function in C/C++ language. <br/> | <h3> [**Login Systems**](https://github.com/RIR360/Login-Systems) </h3> The repository contains some different types of simple login systems programmed in C/C++ language. <br/> |
-
+<br />
 
 Find me on these social sites:
 [Facebook](https://www.facebook.com/RIR360/)
