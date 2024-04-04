@@ -34,6 +34,16 @@
 * Python (In competitive Programming)
 * In graphics, Figma, Adobe Illustrator, and Adobe Photoshop
 
+### <span color="#c96100">2020</span>, Dropped my CS50 Final Project!
+
+<span align="center">
+<img alt="Noxford library Feature image by RIR360" height="150px" src="https://user-images.githubusercontent.com/50569315/135026949-7fedee51-0827-4fe4-a764-8b974dd9a9fd.jpg">
+<img alt="Noxford library video screenshot image by RIR360" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/14f42864-e08e-4d56-a72c-20e97e4eec01">
+<img alt="Noxford library video screenshot image by RIR360" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/1cfd95c0-b05b-4c06-b55f-7e1cbca1f2fb">
+</span>
+
+Made a project 
+
 
 ### Connect with me:
 
