@@ -42,7 +42,8 @@
 <img alt="Noxford library video screenshot image by RIR360" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/1cfd95c0-b05b-4c06-b55f-7e1cbca1f2fb">
 </span>
 
-Made a project 
+Github: https://lnkd.in/gwGgzUns
+Youtube Overview Video: https://lnkd.in/dMU2dCTT
 
 
 ### Connect with me:
