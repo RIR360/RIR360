@@ -53,20 +53,13 @@
     <img alt="ICPC Dhaka regional contest BUBT" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/c93194bb-27af-4b37-aebe-c73fad7a8f57">
   </p>
   <p>
-    We were the selected 114 no. team among 4000+ teams perticipated in the preliminary test.
+    We were the selected 114th no. team among 4000+ teams perticipated in the preliminary test!
   </p>
 </div>
 
 <div align="center">
   <h3>
-    <span color="#c96100">In 2020, </span> dropped my CS50x Final Project! 
-    <img alt="External Link" height="25px" src="./img/external-link.svg">
-    <a target="_blank" href="https://github.com/RIR360/Noxford-Library">
-      <img alt="Github Share Link" height="25px" src="./img/github.svg">
-    </a>
-    <a target="_blank" href="https://www.youtube.com/watch?v=KwtOZKcUZ3s&feature=youtu.be">
-      <img alt="Youtube Share Link" height="25px" src="./img/youtube.svg">
-    </a>
+    <span color="#c96100">In 2020, </span> dropped my CS50x Final Project!
   </h3>
   <p>
     <img alt="Noxford library Feature image by RIR360" height="150px" src="https://user-images.githubusercontent.com/50569315/135026949-7fedee51-0827-4fe4-a764-8b974dd9a9fd.jpg">
@@ -74,7 +67,16 @@
     <img alt="Noxford library video screenshot image by RIR360" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/22bcd524-261f-470a-bdad-da7fe1795e02">
   </p>
   <p>
-    It is a full-stack website for a library. Here you can place a hold for a book, see book information, search for books.
+    It is a full-stack website for a library. Here you can place a hold for a book, see book information, search for books!
+  </p>
+  <p>
+    Wanna check it out? <br/>
+    <a target="_blank" href="https://github.com/RIR360/Noxford-Library">
+      <img alt="Github Share Link" height="25px" src="./img/github.svg">
+    </a>
+    <a target="_blank" href="https://www.youtube.com/watch?v=KwtOZKcUZ3s&feature=youtu.be">
+      <img alt="Youtube Share Link" height="25px" src="./img/youtube-square.svg">
+    </a>
   </p>
 </div>
 
