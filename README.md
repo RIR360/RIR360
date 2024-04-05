@@ -34,17 +34,26 @@
 * Python (In competitive Programming)
 * In graphics, Figma, Adobe Illustrator, and Adobe Photoshop
 
-### <span color="#c96100">2020</span>, Dropped my CS50 Final Project!
-
-<span align="center">
-<img alt="Noxford library Feature image by RIR360" height="150px" src="https://user-images.githubusercontent.com/50569315/135026949-7fedee51-0827-4fe4-a764-8b974dd9a9fd.jpg">
-<img alt="Noxford library video screenshot image by RIR360" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/14f42864-e08e-4d56-a72c-20e97e4eec01">
-<img alt="Noxford library video screenshot image by RIR360" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/1cfd95c0-b05b-4c06-b55f-7e1cbca1f2fb">
-</span>
-
-Github: https://lnkd.in/gwGgzUns
-Youtube Overview Video: https://lnkd.in/dMU2dCTT
-
+<div align="center">
+  <h3>
+    <span color="#c96100">In 2020, </span> dropped my CS50x Final Project! 
+    <img alt="External Link" height="25px" src="./img/external-link.svg">
+    <a href="https://github.com/RIR360/Noxford-Library">
+      <img alt="Github Share Link" height="25px" src="./img/github.svg">
+    </a>
+    <a href="https://www.youtube.com/watch?v=KwtOZKcUZ3s&feature=youtu.be">
+      <img alt="Youtube Share Link" height="25px" src="./img/youtube.svg">
+    </a>
+  </h3>
+  <p>
+    <img alt="Noxford library Feature image by RIR360" height="150px" src="https://user-images.githubusercontent.com/50569315/135026949-7fedee51-0827-4fe4-a764-8b974dd9a9fd.jpg">
+    <img alt="Noxford library video screenshot image by RIR360" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/14f42864-e08e-4d56-a72c-20e97e4eec01">
+    <img alt="Noxford library video screenshot image by RIR360" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/1cfd95c0-b05b-4c06-b55f-7e1cbca1f2fb">
+  </p>
+  <p>
+    It is a full-stack website for a library. Here you can place a hold for a book, see book information, search for books.
+  </p>
+</div>
 
 ### Connect with me:
 
