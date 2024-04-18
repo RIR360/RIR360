@@ -8,20 +8,21 @@
 ### Languages and Tools:
 
 <span>
-<img title="React JS" alt="React icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/react.svg">
-<img title="node JS" alt="node icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/node.svg">
-<img title="javascript" alt="javascript icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/javascript.svg">
-<img title="jquery" alt="jquery icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/jquery.svg">
-<img title="html" alt="html icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/html.svg">
-<img title="css" alt="css icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/css.svg">
-<img title="bootstrap" alt="bootstrap icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/bootstrap.svg">
-<img title="mongodb" alt="mongodb icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/mongodb.svg">
-<img title="elasticsearch" alt="elasticsearch icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/elasticsearch.svg">
-<img title="cpp" alt="cpp icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/cpp.svg">
-<img title="python" alt="python icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/python.svg">
-<img title="illustrator" alt="illustrator icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/illustrator.svg">
-<img title="photoshop" alt="photoshop icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/photoshop.svg">
-<img title="figma" alt="figma icon featured on Rejwan Islam Rizvy' profile" height="55px" src="./img/figma.svg">
+<img title="React JS" alt="React icon " height="55px" src="./img/react.svg">
+<img title="node JS" alt="node icon " height="55px" src="./img/node.svg">
+<img title="javascript" alt="javascript icon " height="55px" src="./img/javascript.svg">
+<img title="jquery" alt="jquery icon " height="55px" src="./img/jquery.svg">
+<img title="html" alt="html icon " height="55px" src="./img/html.svg">
+<img title="css" alt="css icon " height="55px" src="./img/css.svg">
+<img title="bootstrap" alt="bootstrap icon " height="55px" src="./img/bootstrap.svg">
+<img title="tailwind" alt="tailwind icon " height="55px" src="./img/tailwind.svg">
+<img title="mongodb" alt="mongodb icon " height="55px" src="./img/mongodb.svg">
+<!-- <img title="elasticsearch" alt="elasticsearch icon " height="55px" src="./img/elasticsearch.svg"> -->
+<img title="cpp" alt="cpp icon " height="55px" src="./img/cpp.svg">
+<img title="python" alt="python icon " height="55px" src="./img/python.svg">
+<img title="illustrator" alt="illustrator icon " height="55px" src="./img/illustrator.svg">
+<img title="photoshop" alt="photoshop icon " height="55px" src="./img/photoshop.svg">
+<img title="figma" alt="figma icon " height="55px" src="./img/figma.svg">
 </span>
 
 ### Expertise:
@@ -54,6 +55,29 @@
   </p>
   <p>
     We were the selected 114th no. team among 4000+ teams perticipated in the preliminary test!
+  </p>
+</div>
+
+<div align="center">
+  <h3>
+    <span color="#c96100">In the end of 2020, </span> mastered some design principles!
+  </h3>
+  <p>
+    <img alt="Universal principles of design" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/6c7c6d6b-053c-4498-b20e-73c81b4a4a02">
+    <img alt="RIR360" height="150px" src="">
+    <img alt="RIR360" height="150px" src="">
+  </p>
+  <p>
+    Completed two noteable courses from Lynda (AKA: LinkedIn Learning) "Graphic Design Techniques" by John McWade and very helpful one "Universal Principles of Design" by awesome duo William Lidwell and Jill Butler.
+  </p>
+  <p>
+    Wanna check it out? <br/>
+    <a target="_blank" href="https://github.com/RIR360/Noxford-Library">
+      <img alt="Github Share Link" height="25px" src="./img/github.svg">
+    </a>
+    <a target="_blank" href="https://www.youtube.com/watch?v=KwtOZKcUZ3s&feature=youtu.be">
+      <img alt="Youtube Share Link" height="25px" src="./img/youtube-square.svg">
+    </a>
   </p>
 </div>
 
