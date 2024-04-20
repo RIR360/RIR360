@@ -1,4 +1,4 @@
-![Cover image of Rejwan Islam Rizvy, Rizvi (RIR360)](https://github.com/RIR360/RIR360/assets/50569315/85186f40-a347-4db0-b7a7-73bbce9ac4bc)
+![Cover image of Rejwan Islam Rizvy, Rizvi (RIR360)](https://github.com/RIR360/RIR360/assets/50569315/b820c653-82e9-436d-b38f-9cebcbcc0789)
 
 ## Not a Developer or a Designer, I'm both!!
 
@@ -64,20 +64,10 @@
   </h3>
   <p>
     <img alt="Universal principles of design" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/6c7c6d6b-053c-4498-b20e-73c81b4a4a02">
-    <img alt="RIR360" height="150px" src="">
-    <img alt="RIR360" height="150px" src="">
+    <img alt="RIR360" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/659d227a-7f8c-4bdb-b573-f4f3ac39ca3c">
   </p>
   <p>
     Completed two noteable courses from Lynda (AKA: LinkedIn Learning) "Graphic Design Techniques" by John McWade and very helpful one "Universal Principles of Design" by awesome duo William Lidwell and Jill Butler.
-  </p>
-  <p>
-    Wanna check it out? <br/>
-    <a target="_blank" href="https://github.com/RIR360/Noxford-Library">
-      <img alt="Github Share Link" height="25px" src="./img/github.svg">
-    </a>
-    <a target="_blank" href="https://www.youtube.com/watch?v=KwtOZKcUZ3s&feature=youtu.be">
-      <img alt="Youtube Share Link" height="25px" src="./img/youtube-square.svg">
-    </a>
   </p>
 </div>
 
