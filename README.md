@@ -1,4 +1,4 @@
-![Cover image of Rejwan Islam Rizvy, Rizvi (RIR360)](https://github.com/RIR360/RIR360/assets/50569315/b820c653-82e9-436d-b38f-9cebcbcc0789)
+![Cover image of Rejwan Islam Rizvy, Rizvi (RIR360)](https://images2.imgbox.com/27/f4/LWGaevnp_o.png)
 
 ## Not a Developer or a Designer, I'm both!!
 
@@ -49,9 +49,9 @@
     <span color="#c96100">In Nov 2023, </span> perticipated in the regional ICPC contest!
   </h3>
   <p>
-    <img alt="Team Procot perticipated in ICPC Dhaka regional contest including Rejwan Islam Rizvy" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/9341b5c6-f336-4bcd-a2d1-e3e8659aaa61">
-    <img alt="ICPC Dhaka regional contest BUBT" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/1fb68a61-bc06-4aa2-bbc1-7041225414a6">
-    <img alt="ICPC Dhaka regional contest BUBT" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/c93194bb-27af-4b37-aebe-c73fad7a8f57">
+    <img alt="Team Procot perticipated in ICPC Dhaka regional contest including Rejwan Islam Rizvy" height="150px" src="https://images2.imgbox.com/d0/93/0BH3enkW_o.png">
+    <img alt="ICPC Dhaka regional contest BUBT" height="150px" src="https://images2.imgbox.com/3f/64/vliIvqoL_o.png">
+    <img alt="ICPC Dhaka regional contest BUBT" height="150px" src="https://images2.imgbox.com/30/94/ivYH1TnA_o.png">
   </p>
   <p>
     We were the selected 114th no. team among 4000+ teams perticipated in the preliminary test!
@@ -63,8 +63,8 @@
     <span color="#c96100">In the end of 2020, </span> mastered some design principles!
   </h3>
   <p>
-    <img alt="Universal principles of design" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/6c7c6d6b-053c-4498-b20e-73c81b4a4a02">
-    <img alt="RIR360" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/659d227a-7f8c-4bdb-b573-f4f3ac39ca3c">
+    <img alt="Universal principles of design" height="150px" src="https://images2.imgbox.com/44/cc/xjKwgb5Z_o.png">
+    <img alt="RIR360" height="150px" src="https://images2.imgbox.com/a6/b6/329CEgOu_o.png">
   </p>
   <p>
     Completed two noteable courses from Lynda (AKA: LinkedIn Learning) "Graphic Design Techniques" by John McWade and very helpful one "Universal Principles of Design" by awesome duo William Lidwell and Jill Butler.
@@ -76,9 +76,9 @@
     <span color="#c96100">In 2020, </span> dropped my CS50x Final Project!
   </h3>
   <p>
-    <img alt="Noxford library Feature image by RIR360" height="150px" src="https://user-images.githubusercontent.com/50569315/135026949-7fedee51-0827-4fe4-a764-8b974dd9a9fd.jpg">
-    <img alt="Noxford library video screenshot image by RIR360" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/14f42864-e08e-4d56-a72c-20e97e4eec01">
-    <img alt="Noxford library video screenshot image by RIR360" height="150px" src="https://github.com/RIR360/RIR360/assets/50569315/22bcd524-261f-470a-bdad-da7fe1795e02">
+    <img alt="Noxford library Feature image by RIR360" height="150px" src="https://images2.imgbox.com/c4/b0/H1gmtVEL_o.jpg">
+    <img alt="Noxford library video screenshot image by RIR360" height="150px" src="https://images2.imgbox.com/2f/de/cRx9PEnN_o.png">
+    <img alt="Noxford library video screenshot image by RIR360" height="150px" src="https://images2.imgbox.com/02/a5/CRpYai5l_o.png">
   </p>
   <p>
     It is a full-stack website for a library. Here you can place a hold for a book, see book information, search for books!
