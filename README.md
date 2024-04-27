@@ -60,6 +60,29 @@
 
 <div align="center">
   <h3>
+    <span color="#c96100">In April 2021, </span> developed my own google chrome extension!
+  </h3>
+  <p>
+    <img alt="Clean new tab google chrome extension image by RIR360" height="150px" src="https://images2.imgbox.com/73/c4/0E8jo4QN_o.jpg">
+    <img alt="Clean new tab google chrome extension image by RIR360" height="150px" src="https://images2.imgbox.com/d7/c1/WUYDpH1d_o.jpg">">
+    <img alt="Clean new tab google chrome extension video screenshot image by RIR360" height="150px" src="https://images2.imgbox.com/8a/a3/FwwbTtMB_o.jpg">
+  </p>
+  <p>
+    My development of this google chrome extension was something out of the box for me at that time. I made two versions of it, but it's not available in the market. 
+  </p>
+  <p>
+    Wanna check it out? <br/>
+    <a target="_blank" href="https://github.com/RIR360/Clean-New-Tab">
+      <img alt="Github Share Link" height="25px" src="./img/github.svg">
+    </a>
+    <a target="_blank" href="https://www.youtube.com/watch?v=BVyTt3QJfIA">
+      <img alt="Youtube Share Link" height="25px" src="./img/youtube-square.svg">
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <h3>
     <span color="#c96100">In the end of 2020, </span> mastered some design principles!
   </h3>
   <p>
