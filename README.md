@@ -60,6 +60,29 @@
 
 <div>
   <h3>
+    <span color="#c96100">End of August 2021, </span> redesigned Medium.com with Bootstrap only!
+  </h3>
+   <p>
+    <!-- <img alt="Computer quick image by RIR360" height="150px" src="https://images2.imgbox.com/ae/a6/8pT9xpt7_o.png"> -->
+  </p>
+  <p>
+    Got an idea to improve the UI of some Medium.com pages with friends, using less CSS possible.
+  </p>
+  <p>
+    Wanna check it out? 
+    <p>
+    <a target="_blank" href="https://github.com/RIR360/Medium.com-redesign.git">
+      <img alt="Github Share Link" height="25px" src="./img/github.svg">
+    </a>
+    <a target="_blank" href="https://youtu.be/iwtuVF8A8so">
+      <img alt="Youtube Share Link" height="25px" src="./img/youtube-square.svg">
+    </a>
+    </p>
+  </p>
+</div>
+
+<div>
+  <h3>
     <span color="#c96100">In August 2021, </span> made a quiz web-app that reports from JSON data!
   </h3>
    <p>
