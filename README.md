@@ -2,8 +2,7 @@
 
 ## Not a Developer or a Designer, I'm both!!
 
-⚡ I'm **Rejwan Islam Rizvy**, a passionate full stack web developer and professional graphic designer with a keen eye for creating intuitive and visually appealing web applications. I leverage my expertise in Node.JS to craft fast and scalable web services.
-
+⚡ I'm **Rejwan Islam Rizvy**, a full stack web developer and graphic designer. I specialize in building fast, scalable web services using Node.js and have a strong focus on creating visually appealing and user-friendly web applications.
 
 ### Languages and Tools:
 
