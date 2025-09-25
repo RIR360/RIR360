@@ -1,8 +1,8 @@
 ![Cover image of Rejwan Islam Rizvy, Rizvi (RIR360)](https://images2.imgbox.com/27/f4/LWGaevnp_o.png)
 
-## Not a Developer or a Designer, I'm both!!
+### Designing Experiences. Developing Solutions.
 
-⚡ I'm **Rejwan Islam Rizvy**, a full stack web developer and graphic designer. I specialize in building fast, scalable web services using Node.js and have a strong focus on creating visually appealing and user-friendly web applications.
+I’m Rejwan Islam Rizvy, a full stack web developer with a background in graphic design. I specialize in building fast, scalable web services using Node.js, and can quickly adapt to a variety of tools and frameworks while maintaining a strong focus on visually appealing, user-friendly applications.
 
 ### Languages and Tools:
 
@@ -16,7 +16,6 @@
 <img title="bootstrap" alt="bootstrap icon " height="55px" src="./img/bootstrap.svg">
 <img title="tailwind" alt="tailwind icon " height="55px" src="./img/tailwind.svg">
 <img title="mongodb" alt="mongodb icon " height="55px" src="./img/mongodb.svg">
-<!-- <img title="elasticsearch" alt="elasticsearch icon " height="55px" src="./img/elasticsearch.svg"> -->
 <img title="cpp" alt="cpp icon " height="55px" src="./img/cpp.svg">
 <img title="python" alt="python icon " height="55px" src="./img/python.svg">
 <img title="illustrator" alt="illustrator icon " height="55px" src="./img/illustrator.svg">
@@ -59,29 +58,6 @@
 
 <div>
   <h3>
-    <span color="#c96100">End of August 2021, </span> redesigned Medium.com with Bootstrap only!
-  </h3>
-   <p>
-    <!-- <img alt="Computer quick image by RIR360" height="150px" src="https://images2.imgbox.com/ae/a6/8pT9xpt7_o.png"> -->
-  </p>
-  <p>
-    Got an idea to improve the UI of some Medium.com pages with friends, using less CSS possible.
-  </p>
-  <p>
-    Wanna check it out? 
-    <p>
-    <a target="_blank" href="https://github.com/RIR360/Medium.com-redesign.git">
-      <img alt="Github Share Link" height="25px" src="./img/github.svg">
-    </a>
-    <a target="_blank" href="https://youtu.be/iwtuVF8A8so">
-      <img alt="Youtube Share Link" height="25px" src="./img/youtube-square.svg">
-    </a>
-    </p>
-  </p>
-</div>
-
-<div>
-  <h3>
     <span color="#c96100">In August 2021, </span> made a quiz web-app that reports from JSON data!
   </h3>
    <p>
@@ -93,11 +69,9 @@
   </p>
   <p>
     Wanna check it out? 
-    <p>
     <a target="_blank" href="https://github.com/RIR360/Computer-Quiz">
       <img alt="Github Share Link" height="25px" src="./img/github.svg">
     </a>
-    </p>
   </p>
 </div>
 
@@ -114,11 +88,9 @@
   </p>
   <p>
     Wanna check it out? 
-    <p>
     <a target="_blank" href="https://github.com/RIR360/Facebook-Post">
       <img alt="Github Share Link" height="25px" src="./img/github.svg">
     </a>
-    </p>
   </p>
 </div>
 
@@ -136,27 +108,12 @@
   </p>
   <p>
     Wanna check it out? 
-    <p>
     <a target="_blank" href="https://github.com/RIR360/Clean-New-Tab">
       <img alt="Github Share Link" height="25px" src="./img/github.svg">
     </a>
     <a target="_blank" href="https://www.youtube.com/watch?v=BVyTt3QJfIA">
       <img alt="Youtube Share Link" height="25px" src="./img/youtube-square.svg">
     </a>
-    </p>
-  </p>
-</div>
-
-<div>
-  <h3>
-    <span color="#c96100">In the end of 2020, </span> mastered some design principles!
-  </h3>
-  <p>
-    <img alt="Universal principles of design" height="150px" src="https://images2.imgbox.com/44/cc/xjKwgb5Z_o.png">
-    <img alt="RIR360" height="150px" src="https://images2.imgbox.com/a6/b6/329CEgOu_o.png">
-  </p>
-  <p>
-    Completed two noteable courses from Lynda (AKA: LinkedIn Learning) "Graphic Design Techniques" by John McWade and very helpful one "Universal Principles of Design" by awesome duo William Lidwell and Jill Butler.
   </p>
 </div>
 
@@ -174,14 +131,12 @@
   </p>
   <p>
     Wanna check it out?
-    <p>
     <a target="_blank" href="https://github.com/RIR360/Noxford-Library">
       <img alt="Github Share Link" height="25px" src="./img/github.svg">
     </a>
     <a target="_blank" href="https://www.youtube.com/watch?v=KwtOZKcUZ3s&feature=youtu.be">
       <img alt="Youtube Share Link" height="25px" src="./img/youtube-square.svg">
     </a>
-    </p>
   </p>
 </div>
 
