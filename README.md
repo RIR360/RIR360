@@ -4,9 +4,8 @@
 
 I’m Rejwan Islam Rizvy, a full stack web developer with a background in graphic design. I specialize in building fast, scalable web services using Node.js, and can quickly adapt to a variety of tools and frameworks while maintaining a strong focus on visually appealing, user-friendly applications.
 
+<!-- <div>
 ### Languages and Tools:
-
-<span>
 <img title="React JS" alt="React icon " height="55px" src="./img/react.svg">
 <img title="node JS" alt="node icon " height="55px" src="./img/node.svg">
 <img title="javascript" alt="javascript icon " height="55px" src="./img/javascript.svg">
@@ -21,22 +20,24 @@ I’m Rejwan Islam Rizvy, a full stack web developer with a background in graphi
 <img title="illustrator" alt="illustrator icon " height="55px" src="./img/illustrator.svg">
 <img title="photoshop" alt="photoshop icon " height="55px" src="./img/photoshop.svg">
 <img title="figma" alt="figma icon " height="55px" src="./img/figma.svg">
-</span>
+</div> -->
 
-### Expertise:
-* Responsive Website Design
-* React JS, Next JS
-* JavaScript, Jquery
-* HTML, CSS, Bootstrap
-* MongoDB, ElasticSearch, SQL
-* C/C++ (Problem Solving, Instructing)
-* Python (In competitive Programming)
-* In graphics, Figma, Adobe Illustrator, and Adobe Photoshop
+### 🛠️ Expertise & Tech Stack
+
+**🎨 Figma** • `Photoshop` • `Illustrator` • `UI/UX` • `CMS`
+
+**💻 Next.js** • `TypeScript` • `JavaScript` • `React.js` • `React Query` • `Tailwind` • `Bootstrap`
+
+**⚙️ Express.js** • `Node.js` • `Python` • `Flask` • `PHP` • `Laravel`
+
+**🗄️ MongoDB** • `PostgreSQL` • `MySQL` • `Redis`
+
+**🚀 Linux** • `Docker` • `Git` • `GitHub Actions` • `Nginx`
 
 ### Connect with me:
 
 [<img title="Facebook Profile" alt="Facebook Profile of Rejwan Islam Rizvy" height="35px" src="./img/facebook-square.svg">](https://www.facebook.com/RIR360/)
-[<img title="LInkedin Profile" alt="Linkedin Profile of Rejwan Islam Rizvy" height="35px" src="./img/linkedin.svg">](https://www.linkedin.com/in/rir360-pro/)
+[<img title="LInkedin Profile" alt="Linkedin Profile of Rejwan Islam Rizvy" height="35px" src="./img/linkedin.svg">](https://www.linkedin.com/in/rej-rir360/)
 [<img title="Behance Profile" alt="Behance Profile of Rejwan Islam Rizvy" height="35px" src="./img/behance.svg">](https://www.behance.net/rir360)
 [<img title="Youtube Channel" alt="Youtube Channel of Rejwan Islam Rizvy" height="35px" src="./img/youtube-square.svg">](https://www.youtube.com/rejwanislamrir)
 
