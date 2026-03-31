@@ -32,6 +32,8 @@ I’m Rejwan Islam Rizvy, a full stack web developer with a background in graphi
   
   Built a functional BERT model for fast, accurate classification and analysis of security logs for an enterprise SOAR applicaiton.
 
+  ![](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/657486773_2720622788310567_4677806727662748542_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeHYEw17JD-l6offPlcMMLDkJggo4Dbe8domCCjgNt7x2kembStNNcW6XbxNF9Tz4Aewvg5b0hpoBeiuHLeN9QMF&_nc_ohc=blc4rgZBsmUQ7kNvwH9MQYq&_nc_oc=Ado3amteEEsJeYmqEN_3uUTN4oFvrbjW59avJEjEg_2gzauUIl5J8r_LkGDqH_xOrMA&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=QqttzwUyF6sENC_lkKuPqA&_nc_ss=7a3a8&oh=00_AfxXO5fkVGPTQPSuH5zO3huAi38AdQYs9elP1AhsZ8ei9A&oe=69D1D07D)
+
   
 * ```Mid Mar 2026```
 
