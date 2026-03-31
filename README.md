@@ -1,4 +1,4 @@
-![Cover image of Rejwan Islam Rizvy, Rizvi (RIR360)](https://images2.imgbox.com/27/f4/LWGaevnp_o.png)
+![Cover image of Rejwan Islam Rizvy, Rizvi (RIR360)](https://github.com/user-attachments/assets/f3eec77e-1a05-4fd7-87a7-26771989d4bd)
 
 ### Designing Experiences. Developing Solutions.
 
